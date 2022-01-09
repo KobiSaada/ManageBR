@@ -1,9 +1,9 @@
 # ManageBR
-Final Project in Software Engineering Course 
+# Final Project in Software Engineering Course 
 
 ![1](https://user-images.githubusercontent.com/73976733/148701347-bdf26207-b23a-4231-bbb5-303cd2492622.gif)
-
-<span style="color: green "> The best application for managing your business and your employees </span>
+<span style="color: green"> Some green text </span>
+# <span style="color: green"> The best application for managing your business and your employees </span>
 
 # About the project :
 Our application deals with employee management and our working hours in an employee-employer configuration
@@ -24,20 +24,22 @@ Managing shifts correctly -
 Creating future shifts with a desired amount of employees.
 Managing employee requests to submit shifts and selecting the most appropriate employee for a given shift.
 # Gallery:
-![P4icture1](https://user-images.githubusercontent.com/73976733/148702060-b28aa7de-08d8-4184-b227-5c74fcbd81dd.png)
-![Pi1cture1](https://user-images.githubusercontent.com/73976733/148702064-10cc4282-920a-4ab5-93a3-e748193250f4.png)
-![Pic2ture1](https://user-images.githubusercontent.com/73976733/148702065-10450a85-b810-40c8-8dc6-d559502e9bf8.png)
-![Pic6ture1](https://user-images.githubusercontent.com/73976733/148702068-20e27df3-510e-4592-88a3-3d4cb1d7bc88.png)
-![Pict3ure1](https://user-images.githubusercontent.com/73976733/148702069-d64f62d9-1669-4bc2-ba67-d0ea278dca5f.png)
-![Pict4ure1](https://user-images.githubusercontent.com/73976733/148702071-38d07800-2cdf-4879-bed5-bc1f785c41e8.png)
-![Pictu6re1](https://user-images.githubusercontent.com/73976733/148702072-38722660-1d53-48b8-8aeb-a6bff21b029f.png)
-![Pictur5e1](https://user-images.githubusercontent.com/73976733/148702074-d54f7f92-ee4c-48db-b50c-bbe9514b28e1.png)
-![Picture1](https://user-images.githubusercontent.com/73976733/148702076-41be6f2f-66ea-42bf-a93a-0e322d9e91f9.png)
-![Picture2](https://user-images.githubusercontent.com/73976733/148702077-024df8bd-a293-4915-a5b4-10b5571c2c3c.png)
-![Picture12](https://user-images.githubusercontent.com/73976733/148702078-fa5082ee-65a5-44d1-814e-e4633e0f77e5.png)
-![Picture21](https://user-images.githubusercontent.com/73976733/148702079-aa8a8059-da26-4a26-bf85-d5e9080e52e5.png)
-![Picture41](https://user-images.githubusercontent.com/73976733/148702080-f52ffb7d-6a16-421a-a0d4-652d5efa32a3.png)
-
+**login screen and profile:
+![P4icture1](https://user-images.githubusercontent.com/73976733/148702396-557d69e3-0d4a-413d-95b1-7f6f723a6915.png)
+![Picture2](https://user-images.githubusercontent.com/73976733/148702235-66826d40-577b-4baf-a2c9-dd3430c5bcb6.png)
+![Picture1](https://user-images.githubusercontent.com/73976733/148702190-cae5dca3-5db3-4bbd-abb8-835c323db296.png)
+**some user screen:
+![Picture21](https://user-images.githubusercontent.com/73976733/148702210-f440df67-be04-431e-a4fe-5402432ab515.png)
+![Picture12](https://user-images.githubusercontent.com/73976733/148702213-8c83f451-d7b1-4e9b-9088-8f08b33e6d6a.png)
+![Picture41](https://user-images.githubusercontent.com/73976733/148702224-b8cb276d-33a6-4d0e-9589-47122d09d519.png)
+![Pictur5e1](https://user-images.githubusercontent.com/73976733/148702248-fdb20d69-ad9b-4dd7-8050-27cbd847fef0.png)
+![Pictu6re1](https://user-images.githubusercontent.com/73976733/148702255-55192e07-44be-4bdc-b78a-61c14f91995f.png)
+**some admin screen:
+![Pi1cture1](https://user-images.githubusercontent.com/73976733/148702286-b31b1d80-9e22-4d5e-8786-c04990d2bb5e.png)
+![Pic2ture1](https://user-images.githubusercontent.com/73976733/148702289-8ee3fdbc-aaf0-426e-9ae3-16784ad1608c.png)
+![Pic6ture1](https://user-images.githubusercontent.com/73976733/148702298-a5d7ce50-8f8e-48d4-add5-0ea0595294a7.png)
+![Pict3ure1](https://user-images.githubusercontent.com/73976733/148702301-e11c85c8-e316-4c4a-92d2-43759dfd676c.png)
+![Pict4ure1](https://user-images.githubusercontent.com/73976733/148702343-909b731a-2579-4d57-89d5-140bac251d87.png)
 
 
 
