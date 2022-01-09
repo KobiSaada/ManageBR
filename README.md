@@ -26,7 +26,7 @@ Managing employee requests to submit shifts and selecting the most appropriate e
 # Gallery:
 # login screen and profile:
 
-![P4icture1](https://user-images.githubusercontent.com/73976733/148702396-557d69e3-0d4a-413d-95b1-7f6f723a6915.png)
+![P4icture1](https://user-images.githubusercontent.com/73976733/148702532-8f83552a-68c4-4266-befe-2af2adcb4732.png)
 ![Picture2](https://user-images.githubusercontent.com/73976733/148702235-66826d40-577b-4baf-a2c9-dd3430c5bcb6.png)
 ![Picture1](https://user-images.githubusercontent.com/73976733/148702190-cae5dca3-5db3-4bbd-abb8-835c323db296.png)
 
@@ -43,7 +43,8 @@ Managing employee requests to submit shifts and selecting the most appropriate e
 ![Pic2ture1](https://user-images.githubusercontent.com/73976733/148702289-8ee3fdbc-aaf0-426e-9ae3-16784ad1608c.png)
 ![Pic6ture1](https://user-images.githubusercontent.com/73976733/148702298-a5d7ce50-8f8e-48d4-add5-0ea0595294a7.png)
 ![Pict3ure1](https://user-images.githubusercontent.com/73976733/148702301-e11c85c8-e316-4c4a-92d2-43759dfd676c.png)
-![Pict4ure1](https://user-images.githubusercontent.com/73976733/148702343-909b731a-2579-4d57-89d5-140bac251d87.png)
+![Pict4ure1](https://user-images.githubusercontent.com/73976733/148702539-2ac63a50-5439-4323-90a3-9598700c58cd.png)
+
 
 
 
