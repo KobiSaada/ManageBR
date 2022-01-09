@@ -49,6 +49,20 @@ Managing employee requests to submit shifts and selecting the most appropriate e
 ![Pic6ture1](https://user-images.githubusercontent.com/73976733/148702298-a5d7ce50-8f8e-48d4-add5-0ea0595294a7.png)
 ![Pict3ure1](https://user-images.githubusercontent.com/73976733/148702301-e11c85c8-e316-4c4a-92d2-43759dfd676c.png)
 ![Pict4ure1](https://user-images.githubusercontent.com/73976733/148702539-2ac63a50-5439-4323-90a3-9598700c58cd.png)
+
+# Features:
+The application supports the following features:
+* Manage Employees(admin)
+* Admin Management Panel
+* Aplly shifts(user)
+* view upcoming shifts(user and admin)
+* view salary(admin and user)
+* profile(can be uploaded from Gallery, Camera Shot)
+* Aprove shifts(admin)
+* Login Activity
+* Sign In Activity
+* and more !
+
 # links:
 **Link to watch how the app works**
 
@@ -69,6 +83,7 @@ https://www.youtube.com/watch?v=5281VQGtUa8 :link:
 <td style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://miro.medium.com/max/552/1*PiduCtSA7kMwdPiMZo1nHw.jpeg" alt="" width="134px" height="67px" /> Git <strong>Branches</strong></td>
 </tr>
   
+  # Enjoy :smile:
 
 
 
