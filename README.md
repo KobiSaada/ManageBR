@@ -5,7 +5,7 @@
 
 **create on AndroidStudio** ![android-studio](https://user-images.githubusercontent.com/73976733/148703109-1b68b427-0408-46e5-8d27-e87a785a77ce.png)
 
-# <span style="color: green"> The best application for managing your business and your employees </span>
+#***The best application for managing your business and your employees***
 
 # About the project ::books:
 Our application deals with employee management and our working hours in an employee-employer configuration
