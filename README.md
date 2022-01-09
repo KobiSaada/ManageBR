@@ -2,7 +2,7 @@
 # Final Project in Software Engineering Course !!:mortar_board::tada:
 # wellcome to our app:iphone:
 ![1](https://user-images.githubusercontent.com/73976733/148701347-bdf26207-b23a-4231-bbb5-303cd2492622.gif)
-* create on AndroidStudio ![android-studio](https://user-images.githubusercontent.com/73976733/148703109-1b68b427-0408-46e5-8d27-e87a785a77ce.png)
+** create on AndroidStudio ![android-studio](https://user-images.githubusercontent.com/73976733/148703109-1b68b427-0408-46e5-8d27-e87a785a77ce.png)
 
 # <span style="color: green"> The best application for managing your business and your employees </span>
 
