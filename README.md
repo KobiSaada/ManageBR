@@ -75,14 +75,12 @@ https://www.youtube.com/watch?v=5281VQGtUa8 :link:
 <h1>Technology:</h1>
 <table cellspacing="10">
 <tbody>
-<tr>
 <td><img src="https://tinuiti.com/wp-content/uploads/2019/05/Google-Firebase-logo-e1494819679178-1080x675.png" width="100px" height="70px" /></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/he/thumb/0/05/Java_Logo.svg.png/140px-Java_Logo.svg.png" width="35px" height="60px" /></td>
 <td><img src="https://cdn.mos.cms.futurecdn.net/Ju3ceiZzGSSQacR2juGN98-320-80.png" alt="" width="134px" height="75px" /></td>
 <td><img src="https://files.geektime.co.il/wp-content/uploads/2013/11/git-logo.png" alt="" width="134px" height="67px" /></td>
 <td style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://miro.medium.com/max/552/1*PiduCtSA7kMwdPiMZo1nHw.jpeg" alt="" width="134px" height="67px" /> Git <strong>Branches</strong></td>
-</tr>
-  <tr>
+
   
   # Enjoy :smile:
 
