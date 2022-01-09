@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="12dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="8dp"
+            android:text="Enter Hour Salary"
+            android:textColor="@color/purple_700"
+            android:textSize="20sp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/tv"
+            android:id="@+id/quantity"
+            android:textColorHint="#000"
+            android:paddingStart="6dp"
+            android:paddingEnd="6dp">
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_article"
+                android:background="@color/white"
+                android:inputType="number|numberDecimal"
+                android:hint="Hour Salary($)"
+                android:id="@+id/edtSalary"
+                />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnSub"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@+id/quantity"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15sp"
+            android:background="@drawable/login_btn_bg"
+            android:ems="8"
+            android:text="Done"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:textSize="10sp"
+            android:layout_below="@+id/btnSub" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

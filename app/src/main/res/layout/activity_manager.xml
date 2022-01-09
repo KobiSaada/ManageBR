@@ -1,0 +1,480 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F9FCFD">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="#F9FCFD"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#F9FCFD">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="230dp"
+                    android:background="@drawable/background_design"
+                    android:orientation="vertical">
+
+                    <com.mikhaellopez.circularimageview.CircularImageView
+                        android:id="@+id/imgUserPic"
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="33dp"
+                        android:src="@drawable/manager"
+                        app:civ_border="true"
+                        app:civ_border_color="#FDFCFC"
+                        app:civ_border_width="0.8dp" />
+
+                    <TextView
+                        android:id="@+id/tvName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_below="@+id/imgUserPic"
+                        android:text="Loading.."
+                        android:layout_marginTop="3dp"
+                        android:textColor="#fff"
+                        android:fontFamily="monospace"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:layout_marginTop="199dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="145dp"
+                        android:orientation="horizontal">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="135dp"
+                            app:cardCornerRadius="12dp"
+                            android:layout_marginRight="5sp"
+                            android:clickable="true"
+                            android:elevation="5dp"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            app:cardBackgroundColor="@color/purple_500"
+                            android:layout_weight="0.8"
+                            android:layout_gravity="center"
+                            android:orientation="vertical"
+                            >
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <com.airbnb.lottie.LottieAnimationView
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:id="@+id/addEmp"
+                                    android:layout_centerInParent="true"
+                                    app:lottie_rawRes="@raw/add_employee"
+                                    app:lottie_autoPlay="true"
+                                    app:lottie_loop="true"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Add New Employees"
+                                    android:textSize="16sp"
+                                    android:id="@+id/tvSub1"
+                                    android:textColor="@color/white"
+                                    android:textStyle="bold"
+                                    android:layout_below="@+id/addEmp"
+                                    android:layout_centerHorizontal="true"
+                                    android:textAlignment="center"
+                                    />
+
+                                <Button
+                                    android:id="@+id/btnAddNewEmp"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent" />
+                            </RelativeLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="135dp"
+                            app:cardCornerRadius="12dp"
+                            android:layout_marginLeft="5sp"
+                            android:clickable="true"
+                            android:elevation="5dp"
+                            app:cardBackgroundColor="@color/purple_500"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:layout_weight="0.8"
+                            android:layout_gravity="center"
+                            android:orientation="vertical"
+                            >
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <com.airbnb.lottie.LottieAnimationView
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:id="@+id/manageEmp"
+                                    android:layout_centerInParent="true"
+                                    app:lottie_rawRes="@raw/manage_emp"
+                                    app:lottie_autoPlay="true"
+                                    app:lottie_loop="true"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Manage Employees"
+                                    android:textSize="16sp"
+                                    android:layout_below="@+id/manageEmp"
+                                    android:id="@+id/tvSub2"
+                                    android:textColor="@color/white"
+                                    android:textStyle="bold"
+                                    android:layout_centerHorizontal="true"
+                                    android:textAlignment="center"
+                                    />
+
+                                <Button
+                                    android:id="@+id/btnManageEmp"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent" />
+                            </RelativeLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="145dp"
+                        android:orientation="horizontal">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="135dp"
+                            app:cardCornerRadius="12dp"
+                            android:layout_marginRight="5sp"
+                            android:clickable="true"
+                            android:elevation="5dp"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            app:cardBackgroundColor="@color/purple_500"
+                            android:layout_weight="0.8"
+                            android:layout_gravity="center"
+                            android:orientation="vertical"
+                            >
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <com.airbnb.lottie.LottieAnimationView
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:id="@+id/overview"
+                                    android:layout_centerInParent="true"
+                                    app:lottie_rawRes="@raw/overview"
+                                    app:lottie_autoPlay="true"
+                                    app:lottie_loop="true"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Salary Overview"
+                                    android:textSize="16sp"
+                                    android:textColor="@color/white"
+                                    android:textStyle="bold"
+                                    android:layout_below="@+id/overview"
+                                    android:layout_centerHorizontal="true"
+                                    android:textAlignment="center"
+                                    />
+
+                                <Button
+                                    android:id="@+id/btnSalaryOverview"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent" />
+                            </RelativeLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="135dp"
+                            app:cardCornerRadius="12dp"
+                            android:layout_marginLeft="5sp"
+                            android:clickable="true"
+                            android:elevation="5dp"
+                            app:cardBackgroundColor="@color/purple_500"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:layout_weight="0.8"
+                            android:layout_gravity="center"
+                            android:orientation="vertical"
+                            >
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <com.airbnb.lottie.LottieAnimationView
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:id="@+id/messaging"
+                                    android:layout_centerInParent="true"
+                                    app:lottie_rawRes="@raw/messaging"
+                                    app:lottie_autoPlay="true"
+                                    app:lottie_loop="true"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Messaging"
+                                    android:textSize="16sp"
+                                    android:layout_below="@+id/messaging"
+                                    android:textColor="@color/white"
+                                    android:textStyle="bold"
+                                    android:layout_centerHorizontal="true"
+                                    android:textAlignment="center"
+                                    />
+
+                                <Button
+                                    android:id="@+id/btnMessaging"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent" />
+                            </RelativeLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="145dp"
+                        android:orientation="horizontal">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="135dp"
+                            app:cardCornerRadius="12dp"
+                            android:layout_marginRight="5sp"
+                            android:clickable="true"
+                            android:elevation="5dp"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            app:cardBackgroundColor="@color/purple_500"
+                            android:layout_weight="0.8"
+                            android:layout_gravity="center"
+                            android:orientation="vertical"
+                            >
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <com.airbnb.lottie.LottieAnimationView
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:id="@+id/createShift"
+                                    android:layout_centerInParent="true"
+                                    app:lottie_rawRes="@raw/create_shift"
+                                    app:lottie_autoPlay="true"
+                                    app:lottie_loop="true"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Create Shift"
+                                    android:textSize="16sp"
+                                    android:textColor="@color/white"
+                                    android:textStyle="bold"
+                                    android:layout_below="@+id/createShift"
+                                    android:layout_centerHorizontal="true"
+                                    android:textAlignment="center"
+                                    />
+
+                                <Button
+                                    android:id="@+id/btnCreateShift"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent" />
+                            </RelativeLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="135dp"
+                            app:cardCornerRadius="12dp"
+                            android:layout_marginLeft="5sp"
+                            android:clickable="true"
+                            android:elevation="5dp"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:layout_weight="0.8"
+                            app:cardBackgroundColor="@color/purple_500"
+                            android:layout_gravity="center"
+                            android:orientation="vertical"
+                            >
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <com.airbnb.lottie.LottieAnimationView
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:id="@+id/viewReq"
+                                    android:layout_centerInParent="true"
+                                    app:lottie_rawRes="@raw/apply_shift"
+                                    app:lottie_autoPlay="true"
+                                    app:lottie_loop="true"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="View Shift Requests"
+                                    android:textSize="16sp"
+                                    android:layout_below="@+id/viewReq"
+                                    android:textColor="@color/white"
+                                    android:textStyle="bold"
+                                    android:layout_centerHorizontal="true"
+                                    android:textAlignment="center"
+                                    />
+
+                                <Button
+                                    android:id="@+id/btnViewShiftReq"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent" />
+                            </RelativeLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="145dp"
+                        android:orientation="horizontal">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="135dp"
+                            android:layout_weight="0.8"
+                            android:layout_marginRight="5dp"
+                            android:layout_gravity="center"
+                            app:cardCornerRadius="12dp"
+                            android:clickable="true"
+                            app:cardBackgroundColor="@color/purple_500"
+                            android:elevation="5dp"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:orientation="vertical"
+                            >
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <com.airbnb.lottie.LottieAnimationView
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:id="@+id/profile"
+                                    android:layout_centerInParent="true"
+                                    app:lottie_rawRes="@raw/profile"
+                                    app:lottie_autoPlay="true"
+                                    app:lottie_loop="true"/>
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Profile"
+                                    android:textSize="16sp"
+                                    android:id="@+id/tvSub3"
+                                    android:textColor="@color/white"
+                                    android:textStyle="bold"
+                                    android:layout_below="@+id/profile"
+                                    android:textAlignment="center"
+                                    android:layout_centerHorizontal="true" />
+
+                                <Button
+                                    android:id="@+id/btnProfile"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent" />
+                            </RelativeLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="0dp"
+                            android:layout_height="135dp"
+                            android:layout_weight="0.8"
+                            android:layout_gravity="center"
+                            app:cardCornerRadius="12dp"
+                            android:layout_marginLeft="5dp"
+                            app:cardBackgroundColor="@color/purple_500"
+                            android:clickable="true"
+                            android:elevation="5dp"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:orientation="vertical"
+                            >
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent">
+
+                                <com.airbnb.lottie.LottieAnimationView
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:id="@+id/signOut"
+                                    android:layout_centerInParent="true"
+                                    app:lottie_rawRes="@raw/logout"
+                                    app:lottie_autoPlay="true"
+                                    app:lottie_loop="true"/>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="Sign Out"
+                                    android:textSize="16sp"
+                                    android:id="@+id/tvHist"
+                                    android:textColor="@color/white"
+                                    android:textStyle="bold"
+                                    android:layout_below="@+id/signOut"
+                                    android:layout_centerHorizontal="true"
+                                    android:textAlignment="center" />
+
+                                <Button
+                                    android:id="@+id/btnSignOut"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:background="@android:color/transparent" />
+                            </RelativeLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
