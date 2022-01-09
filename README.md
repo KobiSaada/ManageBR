@@ -65,6 +65,8 @@ https://www.youtube.com/watch?v=5281VQGtUa8 :link:
 <td><img src="https://files.geektime.co.il/wp-content/uploads/2013/11/git-logo.png" alt="" width="134px" height="67px" /></td>
 <td style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://miro.medium.com/max/552/1*PiduCtSA7kMwdPiMZo1nHw.jpeg" alt="" width="134px" height="67px" /> Git <strong>Branches</strong></td>
 </tr>
+  <h1>How to use:</h1>
+<p>Clone the project and run the app <img src="https://cdn2.iconfinder.com/data/icons/large-glossy-svg-icons/512/go_arrow_next_up_green_forward-512.png" width="15px" height="15px" /></p>
 
 
 
