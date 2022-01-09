@@ -42,6 +42,7 @@ Managing employee requests to submit shifts and selecting the most appropriate e
 ![Picture41](https://user-images.githubusercontent.com/73976733/148702224-b8cb276d-33a6-4d0e-9589-47122d09d519.png)
 ![Pictur5e1](https://user-images.githubusercontent.com/73976733/148702248-fdb20d69-ad9b-4dd7-8050-27cbd847fef0.png)
 ![Pictu6re1](https://user-images.githubusercontent.com/73976733/148702255-55192e07-44be-4bdc-b78a-61c14f91995f.png)
+
 **some admin screen:**
 
 ![Pi1cture1](https://user-images.githubusercontent.com/73976733/148702286-b31b1d80-9e22-4d5e-8786-c04990d2bb5e.png)
@@ -53,6 +54,17 @@ Managing employee requests to submit shifts and selecting the most appropriate e
 **Link to watch how the app works**
 
 https://www.youtube.com/watch?v=5281VQGtUa8 :link:
+
+<h1>Technology:</h1>
+<table cellspacing="10">
+<tbody>
+<tr>
+<td><img src="https://tinuiti.com/wp-content/uploads/2019/05/Google-Firebase-logo-e1494819679178-1080x675.png" width="100px" height="70px" /></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/he/thumb/0/05/Java_Logo.svg.png/140px-Java_Logo.svg.png" width="35px" height="60px" /></td>
+<td><img src="https://cdn.mos.cms.futurecdn.net/Ju3ceiZzGSSQacR2juGN98-320-80.png" alt="" width="134px" height="75px" /></td>
+<td><img src="https://files.geektime.co.il/wp-content/uploads/2013/11/git-logo.png" alt="" width="134px" height="67px" /></td>
+<td style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://miro.medium.com/max/552/1*PiduCtSA7kMwdPiMZo1nHw.jpeg" alt="" width="134px" height="67px" /> Git <strong>Branches</strong></td>
+</tr>
 
 
 
