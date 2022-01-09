@@ -1,8 +1,8 @@
 # ManageBR
-# Final Project in Software Engineering Course 
-
+# Final Project in Software Engineering Course !!
+# wellcome to our app
 ![1](https://user-images.githubusercontent.com/73976733/148701347-bdf26207-b23a-4231-bbb5-303cd2492622.gif)
-<span style="color: green"> Some green text </span>
+
 # <span style="color: green"> The best application for managing your business and your employees </span>
 
 # About the project :
@@ -24,17 +24,21 @@ Managing shifts correctly -
 Creating future shifts with a desired amount of employees.
 Managing employee requests to submit shifts and selecting the most appropriate employee for a given shift.
 # Gallery:
-**login screen and profile:
+# login screen and profile:
+
 ![P4icture1](https://user-images.githubusercontent.com/73976733/148702396-557d69e3-0d4a-413d-95b1-7f6f723a6915.png)
 ![Picture2](https://user-images.githubusercontent.com/73976733/148702235-66826d40-577b-4baf-a2c9-dd3430c5bcb6.png)
 ![Picture1](https://user-images.githubusercontent.com/73976733/148702190-cae5dca3-5db3-4bbd-abb8-835c323db296.png)
-**some user screen:
+
+# some user screen:
+
 ![Picture21](https://user-images.githubusercontent.com/73976733/148702210-f440df67-be04-431e-a4fe-5402432ab515.png)
 ![Picture12](https://user-images.githubusercontent.com/73976733/148702213-8c83f451-d7b1-4e9b-9088-8f08b33e6d6a.png)
 ![Picture41](https://user-images.githubusercontent.com/73976733/148702224-b8cb276d-33a6-4d0e-9589-47122d09d519.png)
 ![Pictur5e1](https://user-images.githubusercontent.com/73976733/148702248-fdb20d69-ad9b-4dd7-8050-27cbd847fef0.png)
 ![Pictu6re1](https://user-images.githubusercontent.com/73976733/148702255-55192e07-44be-4bdc-b78a-61c14f91995f.png)
-**some admin screen:
+# some admin screen:
+
 ![Pi1cture1](https://user-images.githubusercontent.com/73976733/148702286-b31b1d80-9e22-4d5e-8786-c04990d2bb5e.png)
 ![Pic2ture1](https://user-images.githubusercontent.com/73976733/148702289-8ee3fdbc-aaf0-426e-9ae3-16784ad1608c.png)
 ![Pic6ture1](https://user-images.githubusercontent.com/73976733/148702298-a5d7ce50-8f8e-48d4-add5-0ea0595294a7.png)
