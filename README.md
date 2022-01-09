@@ -2,10 +2,9 @@
 # Final Project in Software Engineering Course !!:mortar_board::tada:
 # wellcome to our app:iphone:
 ![1](https://user-images.githubusercontent.com/73976733/148701347-bdf26207-b23a-4231-bbb5-303cd2492622.gif)
+# The best application for managing your business and your employees
 
 **create on AndroidStudio** ![android-studio](https://user-images.githubusercontent.com/73976733/148703109-1b68b427-0408-46e5-8d27-e87a785a77ce.png)
-
-#***The best application for managing your business and your employees***
 
 # About the project ::books:
 Our application deals with employee management and our working hours in an employee-employer configuration
