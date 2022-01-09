@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=5281VQGtUa8 :link:
 
 <h1>How to use:</h1>
 <p>Clone the project and run the app <img src="https://cdn2.iconfinder.com/data/icons/large-glossy-svg-icons/512/go_arrow_next_up_green_forward-512.png" width="15px" height="15px" /></p>
-# Enjoy 😄
+**Enjoy** 😄
 <h1>Technology:</h1>
 <table cellspacing="10">
 <td><img src="https://tinuiti.com/wp-content/uploads/2019/05/Google-Firebase-logo-e1494819679178-1080x675.png" width="100px" height="70px" /></td>
