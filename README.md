@@ -3,7 +3,7 @@ Final Project in Software Engineering Course
 
 ![1](https://user-images.githubusercontent.com/73976733/148701347-bdf26207-b23a-4231-bbb5-303cd2492622.gif)
 
-<span style="color: blue"> The best application for managing your business and your employees </span>
+<span style="color: green "> The best application for managing your business and your employees </span>
 
 # About the project :
 Our application deals with employee management and our working hours in an employee-employer configuration
@@ -24,7 +24,7 @@ Managing shifts correctly -
 Creating future shifts with a desired amount of employees.
 Managing employee requests to submit shifts and selecting the most appropriate employee for a given shift.
 # Gallery:
-![image](https://user-images.githubusercontent.com/73976733/148701592-23b27063-a996-4e63-b508-f94f77021406.png=250x250)![image](https://user-images.githubusercontent.com/73976733/148701733-b00b4619-b9dd-4713-a347-a595df7a0208.png=250x250)
+![image](https://user-images.githubusercontent.com/73976733/148701592-23b27063-a996-4e63-b508-f94f77021406.png)
 
 
 
