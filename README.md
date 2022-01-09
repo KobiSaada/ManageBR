@@ -2,6 +2,7 @@
 # Final Project in Software Engineering Course !!:mortar_board::tada:
 # wellcome to our app:iphone:
 ![1](https://user-images.githubusercontent.com/73976733/148701347-bdf26207-b23a-4231-bbb5-303cd2492622.gif)
+
 **create on AndroidStudio** ![android-studio](https://user-images.githubusercontent.com/73976733/148703109-1b68b427-0408-46e5-8d27-e87a785a77ce.png)
 
 # <span style="color: green"> The best application for managing your business and your employees </span>
@@ -17,6 +18,7 @@ Submitting work shifts in the most convenient way while selecting the options sc
 The calculation of the salary for a particular shift is done by manually pressing the entry and exit of the shift.
 View shift history and computing payroll for each shift.
 View the manager's message - Solve the problem I did not see I did not hear.
+
 **admin:**
 
 Managing employees in the most convenient way (adding / removing an employee).
