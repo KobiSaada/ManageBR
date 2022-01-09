@@ -61,6 +61,7 @@ The application supports the following features:
 * Aprove shifts(admin)
 * Login Activity
 * Sign In Activity
+* Notifications
 * and more !
 
 # links:
